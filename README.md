@@ -10,5 +10,5 @@ The primary audience of this investigational project might include, people who w
 of living and various opportunities it might have to offer, or businessmen who want to know how a particular city could be potentially an ideal centre for a certain business to be pursued there.
 This project as a whole, based on how various cities are different and or similar to one another, provides recommendations to a supposedly bigger audience based on what their perspectives and needs are.
 
-A glimpse of the dataset:
-<img src="images/image1>
+A glimpse of the dataset:<br>
+<img src="images/image1.png>
