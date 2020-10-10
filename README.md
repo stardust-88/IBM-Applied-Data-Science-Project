@@ -11,4 +11,4 @@ of living and various opportunities it might have to offer, or businessmen who w
 This project as a whole, based on how various cities are different and or similar to one another, provides recommendations to a supposedly bigger audience based on what their perspectives and needs are.
 
 A glimpse of the dataset:<br>
-<img src="images/image1.png>
+<img src="images/image1.png">
