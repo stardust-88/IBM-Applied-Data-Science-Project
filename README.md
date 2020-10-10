@@ -15,7 +15,8 @@ This project as a whole, based on how various cities are different and or simila
 
 <img src="images/image4.png">
 
-A glimpse of the dataset:<br>
+###### A glimpse of the dataset:<br>
 <img src="images/image1.png">
 
+Glimpse of the cities with clusters and their top 5 venues(queried using the foursquare API):<br>
 <img src="images/image2.png">
